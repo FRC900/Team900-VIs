@@ -10,6 +10,8 @@
 		<Item Name="OdometricNavigation.vi" Type="VI" URL="../OdometricNavigation.vi"/>
 		<Item Name="YawOverflows.vi" Type="VI" URL="../YawOverflows.vi"/>
 		<Item Name="SwerveDriveFuse.vi" Type="VI" URL="../SwerveDriveFuse.vi"/>
+		<Item Name="SwerveGlobalData.vi" Type="VI" URL="../SwerveGlobalData.vi"/>
+		<Item Name="WheelGetAngle.vi" Type="VI" URL="../WheelGetAngle.vi"/>
 	</Item>
 	<Item Name="Teleop Math" Type="Folder">
 		<Item Name="CenterOfRotation.vi" Type="VI" URL="../CenterOfRotation.vi"/>
@@ -22,8 +24,7 @@
 		<Item Name="SwerveDriveRotate.vi" Type="VI" URL="../SwerveDriveRotate.vi"/>
 		<Item Name="SwerveMath.vi" Type="VI" URL="../SwerveMath.vi"/>
 	</Item>
-	<Item Name="Global Data" Type="Folder">
-		<Item Name="SwerveGlobalData.vi" Type="VI" URL="../SwerveGlobalData.vi"/>
+	<Item Name="Offsets" Type="Folder">
 		<Item Name="SaveOffsets.vi" Type="VI" URL="../SaveOffsets.vi"/>
 		<Item Name="SwerveLoadOffsets.vi" Type="VI" URL="../SwerveLoadOffsets.vi"/>
 	</Item>
@@ -33,5 +34,4 @@
 	</Item>
 	<Item Name="ifNanUseLastValue.vi" Type="VI" URL="../ifNanUseLastValue.vi"/>
 	<Item Name="SwerveGetRefnums.vi" Type="VI" URL="../SwerveGetRefnums.vi"/>
-	<Item Name="WheelGetAngle.vi" Type="VI" URL="../WheelGetAngle.vi"/>
 </Library>
