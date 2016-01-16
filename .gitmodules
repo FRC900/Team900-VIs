@@ -1,0 +1,3 @@
+[submodule "navX"]
+	path = navX
+	url = https://github.com/FRC900/navX-MXP-LabVIEW.git
