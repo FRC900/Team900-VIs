@@ -2,5 +2,5 @@
 My Computer = "172.22.11.1"
 
 [roboRIO]
-roboRIO = "172.22.11.2"
+roboRIO = "roboRIO-900-FRC.local"
 
