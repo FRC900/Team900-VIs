@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "192.168.136.50"
+My Computer = "169.254.82.5"
 
 [RT roboRIO Target]
 RT roboRIO Target = "roborio-900-frc.local"
