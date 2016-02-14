@@ -1,8 +1,0 @@
-[submodule "navX"]
-	path = navX
-	url = https://github.com/FRC900/navX-MXP-LabVIEW.git
-	branch = master
-[submodule "LabVIEW-ZeroMQ-roboRIO"]
-	path = LabVIEW-ZeroMQ-roboRIO
-	url = https://github.com/FRC900/LabVIEW-ZeroMQ-roboRIO.git
-	branch = master
